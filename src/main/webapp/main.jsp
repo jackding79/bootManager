@@ -9,6 +9,7 @@
 <title>百度一下</title>
 </head>
 <body>
+		<p>git更新</p>
 		<p>欢迎进入主页</p>
 		<p>
 			<input type="button" value="点击1" id="button1" onclick="fun1()"/>
